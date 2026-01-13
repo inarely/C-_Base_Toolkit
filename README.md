@@ -22,19 +22,6 @@ The project contains small utility modules with safe input validation and simple
 - Save notes to a file
 - Notes are saved in `Data/notes.txt` inside the project folder
 
-## Project Structure
-
-CSharp_Base_Toolkit/
-├─ Program.cs
-├─ Tools/
-│ ├─ Calculator.cs
-│ ├─ Percent.cs
-│ ├─ Notes.cs
-│ ├─ Input.cs
-├─ Data/
-│ └─ notes.txt
-└─ README.md
-
 ## Technologies
 
 - C#
